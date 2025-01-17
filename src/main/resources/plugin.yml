@@ -1,0 +1,5 @@
+name: backpack
+version: '0.1'
+main: net.arcanecloud.backpack.Backpack
+api-version: '1.21'
+depend: [RivalHarvesterHoes]
